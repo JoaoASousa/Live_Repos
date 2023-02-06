@@ -14,6 +14,8 @@ If any link doesn't work it most likely is due to a repo being private or the li
 ## Publishing Vite project
 [Youtube video that helped](https://www.youtube.com/watch?v=5ccdo8iWR58)
 
+Disclaimer: 99% sure these were the exact steps for me. May not be "optimized" but should work.
+
 1. `vite.config.js` | create the file if it doesn't exist already. `REPO_NAME` is placeholder for the name of the repo.
 ```js
 // vite.config.js
