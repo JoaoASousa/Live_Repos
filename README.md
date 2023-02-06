@@ -69,7 +69,7 @@ cd -
 ```
 
 4.  add, commit, push
-5.  run `npm install gh-pages --save -dev`
+5.  `npm install gh-pages --save -dev`
 6.  add, commit, push (probably #4 is unecessary)
 7.  `npm run build`
 8.  `npm run deploy`
