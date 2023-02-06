@@ -1,6 +1,6 @@
-# ThreeJS_Repos
+# Live_Repos
  
-Repository with tutorials / crash courses I followed along / projects I made with Three.js.
+Repository with tutorials / crash courses I followed along / projects I made that are or will be live.
 
 If any link doesn't work it most likely is due to a repo being private or the link is not right. Feel free to let me know if that happens.
 
