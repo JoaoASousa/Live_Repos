@@ -4,4 +4,4 @@ Repository with tutorials / crash courses I followed along / projects I made wit
 
 | Repository |  |
 | - | - |
-| [Crash Course](https://github.com/JoaoASousa/ThreeJS_Repos/tree/main/Threejs_Tutorial) | :heavy_check_mark: |
+| [Crash Course](https://github.com/JoaoASousa/Threejs_Tutorial_1) | :heavy_check_mark: |
