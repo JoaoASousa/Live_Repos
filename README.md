@@ -6,7 +6,7 @@ If any link doesn't work it most likely is due to a repo being private or the li
 
 | | Repository | Online at |
 | - | - | - |
-| :heavy_check_mark: | [Crash Course](https://github.com/JoaoASousa/Threejs_Tutorial_1) | [Click me!](https://joaoasousa.github.io/Threejs_Tutorial_1/) |
+| :heavy_check_mark: | [Three.js Crash Course](https://github.com/JoaoASousa/Threejs_Tutorial_1) | [Click me!](https://joaoasousa.github.io/Threejs_Tutorial_1/) |
 
 
 
